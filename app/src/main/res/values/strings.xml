@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Block9</string>
+    <string name="tye_your_message_here">Tye your message here</string>
+    <string name="send_sms">Send SMS</string>
+</resources>
